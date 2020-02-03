@@ -70,7 +70,6 @@ body {
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 5px;
 }
-
 #inner-grid > div {
   color: #060000;
   font-size: 1,5vw;
@@ -84,7 +83,6 @@ body {
 #grid {
   grid-template-columns: repeat(12, 1fr);
 }
-
       #inner-grid
       {
         grid-column: 1/-1;
@@ -93,7 +91,6 @@ body {
       }
     div{
       margin: 10px 0;
-
     }
     #item1 {
   grid-column: 1/-1;
